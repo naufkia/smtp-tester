@@ -183,7 +183,7 @@ $actual_link = (isset($_SERVER['HTTPS']) && $_SERVER['HTTPS'] === 'on' ? "https"
               <div class="col-12">
                 <div class="form-group">
                   <label for="content">Message <span class="text-danger">*</span></label>
-                  <textarea required rows="6" class="form-control" name="content" id="content" placeholder="A Nice Message Content">This is a test message sent from <a href="https://github.com/eduardodevop/smtp-tester">SMTP Tester</a></textarea>
+                  <textarea required rows="6" class="form-control" name="content" id="content" placeholder="A Nice Message Content">This is a test message sent from <a href="https://github.com/naufkia/smtp-tester">SMTP Tester</a></textarea>
                 </div>
 
                 <div class="form-group">
